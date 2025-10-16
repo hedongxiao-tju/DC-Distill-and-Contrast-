@@ -3,9 +3,9 @@
 Official PyTorch implementation of **D&C** in *"Distill & Contrast: A New Graph Self-Supervised Method With Approximating Nature Data Relationships"* (IEEE TKDE 2025).
 
 ## Repository Structure
-This repository contains the official PyTorch implementation of the D&C method. The main file is named **DC-master**, and it contains two primary sections:
+This repository contains the official PyTorch implementation of the D&C method. It contains two primary sections:
 
-1. **DC_master_homo**: This directory contains the code for the original D&C method on homophilic graphs.
+1. **DC_master**: This directory contains the code for the original D&C method on homophilic graphs.
 2. **DC_GraphACL_plugin**: This directory includes the integration of D&C as a plugin to the GraphACL method, along with experiments on heterophilic graphs.
 
 ## Paper Link
