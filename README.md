@@ -30,7 +30,7 @@ All environment setup details are included in the `Env.yaml` file.
 To quickly run the D&C method:
 
 - For **DC_master_homo** (homogeneous dataset), you can directly run the `rundataset.ipynb` Jupyter notebook.
-- For the **heterogeneous plugin experiment**, you can run the experiment with the following command:
+- For the **heterophilic plugin experiment**, you can run the experiment with the following command:
 
     ```bash
     bash run.sh
