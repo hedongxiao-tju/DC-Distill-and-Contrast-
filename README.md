@@ -38,7 +38,7 @@ To quickly run the D&C method:
 
 ## Contact
 
-If you have any questions or issues, feel free to contact email: [893038487@qq.com](mailto:893038487@qq.com).
+If you have any questions or issues, feel free to contact email: [zjtao@tju.edu.cn](mailto:zjtao@tju.edu.cn).
 
 
 ## 🔄 Code from Other Projects
